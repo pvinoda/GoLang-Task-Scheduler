@@ -1,8 +1,8 @@
 # GoLang-Task-Scheduler
 🚀 Distributed Task Scheduler: Efficiently manage and execute tasks across a network. Features fault tolerance, dynamic prioritization, and seamless integration. Powered by GoLang.
 
-Let's use CockroachDB for database interactions :)
-
+Let's use **CockroachDB** for database interactions :)
+PRACTICAL FIRST STEPS WITH COCKROACHDB: https://university.cockroachlabs.com/courses/course-v1:crl+practical-first-steps-with-crdb+self-paced/about
 
 gRPC
 Apache Thrift
